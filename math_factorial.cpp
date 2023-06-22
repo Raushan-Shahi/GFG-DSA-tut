@@ -1,3 +1,6 @@
+// theta(n) time complexity for recursive solution 
+
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
