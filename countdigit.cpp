@@ -1,3 +1,7 @@
+// for number of digits in input "d " time complexity is theta(d)
+
+
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
