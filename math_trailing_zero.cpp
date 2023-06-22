@@ -4,12 +4,9 @@ using namespace std;
     
 int trailzero(int n)
 {
-    int count=0,x=5;
-    while(n>=x)
-    {
-        count = count + n/x;
-        x *=5;
-    }
+    int count=0;
+    for (int i = 5; i <= n; i*=5)
+        count = count + n/i;
     return count;
 }
 
