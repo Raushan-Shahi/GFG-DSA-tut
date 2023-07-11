@@ -25,5 +25,4 @@ int main()
 
     cout << binsearch(arr, 0, n - 1, x);
     return 0;
-    return 0;
 }
